@@ -1,2 +1,3 @@
 # naman_js
-javascipt from scratch
+
+javascipt from the scratch
